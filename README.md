@@ -1,5 +1,15 @@
 # Financial-Agent 
 https://financial-agent2.vercel.app/
+
+![image](https://github.com/user-attachments/assets/bf709917-5c61-4ee9-96b2-e2411d17d40f)
+
+![image](https://github.com/user-attachments/assets/44c78029-de47-4b1d-8cf6-aab8422711a0)
+
+![image](https://github.com/user-attachments/assets/300633c3-66d8-492a-a4a9-51510bb6203e)
+
+![image](https://github.com/user-attachments/assets/fd852cbc-192f-4847-80f1-f83964d80448)
+
+
 This project is a multi-agent AI system that provides financial insights using Google Gemini and Yahoo Finance (yFinance). The system includes:
 
 Web Search Agent – Fetches relevant financial news and stock-related data.
@@ -22,7 +32,7 @@ Multi-Agent System – Combines both agents to provide in-depth market analysis.
 1️⃣ Clone the Repository
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Prishi99/Financial-Agent
 cd your-repo
 ```
 2️⃣ Set Up Virtual Environment (Optional but Recommended)
